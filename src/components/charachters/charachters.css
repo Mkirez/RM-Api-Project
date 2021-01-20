@@ -78,3 +78,21 @@
     width: 60%;
     margin: auto;
   }
+
+  #nxbtn{
+    margin: auto;
+    width: 50%;
+    border: 3px solid #042e0470;
+    padding: 10px;
+    background-color: #545252;
+    color: white;
+  }
+
+  #prvbtn{
+    margin: auto;
+    width: 50%;
+    border: 3px solid #042e0470;
+    padding: 10px;
+    background-color: #545252;
+    color: white;
+  }

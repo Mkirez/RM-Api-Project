@@ -15,9 +15,10 @@ const EpisodesItem = ({ item }) => {
                                     <li>
                                     <strong>Episode:</strong> {item.episode}
                                     </li>
-                                    <li>
-                                    <strong>Charachters:</strong> {item.characters}
+                                    <li id="charachters">
+                                    <strong>Charachters:</strong>{item.characters.pop()}  
                                     </li>
+                                    
                                 </ul>
                         </div>
                     </div>
